@@ -6611,6 +6611,27 @@
     ]
   },
   {
+    "id": "m_1793708301695_xz10tu",
+    "date": "2026-11-04",
+    "team1": "بورتوجاليتي",
+    "team2": "ريال يونيون",
+    "logo1": "⚽",
+    "logo2": "⚽",
+    "time": "08:00 م",
+    "competition": "كأس ملك إسبانيا",
+    "competitionLogo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775222737664_hfnxcd.png",
+    "round": "الدور الأول",
+    "stadium": "ملعب خيسوس غارسيا كالفو",
+    "status": "NS",
+    "score": {
+      "home": null,
+      "away": null
+    },
+    "commentator": "",
+    "channels": [],
+    "channel_details": []
+  },
+  {
     "id": "m_1793364612247_8tnbbt",
     "date": "2026-11-04",
     "team1": "التعاون",
@@ -6801,6 +6822,27 @@
     ]
   },
   {
+    "id": "m_1793708301698_nz2j7q",
+    "date": "2026-11-04",
+    "team1": "ديبورتيفو أموريبييتا",
+    "team2": "لوغرونيس",
+    "logo1": "⚽",
+    "logo2": "⚽",
+    "time": "09:00 م",
+    "competition": "كأس ملك إسبانيا",
+    "competitionLogo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775222737664_hfnxcd.png",
+    "round": "الدور الأول",
+    "stadium": "إستادي مونيسيبال دي بادالونا",
+    "status": "NS",
+    "score": {
+      "home": null,
+      "away": null
+    },
+    "commentator": "",
+    "channels": [],
+    "channel_details": []
+  },
+  {
     "id": "m_1793364612289_6fj8iy",
     "date": "2026-11-04",
     "team1": "مولودية الجزائر",
@@ -6812,6 +6854,69 @@
     "competitionLogo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/tmg62upkin0ym3vthnja.png",
     "round": "الجولة 1 - الذهاب",
     "stadium": "ملعب علي لابوانت",
+    "status": "NS",
+    "score": {
+      "home": null,
+      "away": null
+    },
+    "commentator": "",
+    "channels": [],
+    "channel_details": []
+  },
+  {
+    "id": "m_1793708301710_7ad1mo",
+    "date": "2026-11-04",
+    "team1": "أوتيبو",
+    "team2": "ساباديل",
+    "logo1": "⚽",
+    "logo2": "⚽",
+    "time": "09:30 م",
+    "competition": "كأس ملك إسبانيا",
+    "competitionLogo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775222737664_hfnxcd.png",
+    "round": "الدور الأول",
+    "stadium": "ملاعب زوبيتا",
+    "status": "NS",
+    "score": {
+      "home": null,
+      "away": null
+    },
+    "commentator": "",
+    "channels": [],
+    "channel_details": []
+  },
+  {
+    "id": "m_1793708301702_6v5zmf",
+    "date": "2026-11-04",
+    "team1": "ديبورتيفا مينيرا",
+    "team2": "قرطاجنة",
+    "logo1": "⚽",
+    "logo2": "⚽",
+    "time": "09:30 م",
+    "competition": "كأس ملك إسبانيا",
+    "competitionLogo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775222737664_hfnxcd.png",
+    "round": "الدور الأول",
+    "stadium": "استاد نويفو أركانخيل",
+    "status": "NS",
+    "score": {
+      "home": null,
+      "away": null
+    },
+    "commentator": "",
+    "channels": [],
+    "channel_details": []
+  },
+  {
+    "id": "m_1793708301706_p2d5a8",
+    "date": "2026-11-04",
+    "team1": "ريوس ريديس",
+    "team2": "باراكالدو",
+    "logo1": "⚽",
+    "logo2": "⚽",
+    "time": "09:30 م",
+    "competition": "كأس ملك إسبانيا",
+    "competitionLogo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775222737664_hfnxcd.png",
+    "round": "الدور الأول",
+    "stadium": "استاد بيدرو سانشو",
     "status": "NS",
     "score": {
       "home": null,
@@ -6915,6 +7020,27 @@
         "commentator": ""
       }
     ]
+  },
+  {
+    "id": "m_1793708301714_47ygrz",
+    "date": "2026-11-04",
+    "team1": "بورتولانو",
+    "team2": "ألباسيتي",
+    "logo1": "⚽",
+    "logo2": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1786184981572_a6394c.png",
+    "time": "09:45 م",
+    "competition": "كأس ملك إسبانيا",
+    "competitionLogo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775222737664_hfnxcd.png",
+    "round": "الدور الأول",
+    "stadium": "نو كامب دي سا بوبلا",
+    "status": "NS",
+    "score": {
+      "home": null,
+      "away": null
+    },
+    "commentator": "",
+    "channels": [],
+    "channel_details": []
   },
   {
     "id": "m_1793364612293_j3uhkk",
@@ -7209,6 +7335,27 @@
     "competitionLogo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/ir7fq8084jw7ij13u6ub.png",
     "round": "الجولة 1 - الذهاب",
     "stadium": "المجمع الرياضي الامير مولاي عبد الله",
+    "status": "NS",
+    "score": {
+      "home": null,
+      "away": null
+    },
+    "commentator": "",
+    "channels": [],
+    "channel_details": []
+  },
+  {
+    "id": "m_1793708301717_0yofm0",
+    "date": "2026-11-04",
+    "team1": "باداخوث",
+    "team2": "تنريفي",
+    "logo1": "⚽",
+    "logo2": "⚽",
+    "time": "10:00 م",
+    "competition": "كأس ملك إسبانيا",
+    "competitionLogo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775222737664_hfnxcd.png",
+    "round": "الدور الأول",
+    "stadium": "كامبوس دي سبورت دي لا بلانشادا",
     "status": "NS",
     "score": {
       "home": null,
