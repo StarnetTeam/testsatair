@@ -21,6 +21,8 @@ python sync.py --days 2
 
 كل الأوقات تُحفظ كما تُعرض من مصدر المباريات بالعربية، مع اعتماد `Africa/Cairo` في حساب اليوم والتشغيل. السكربت لا يعيد طلب تردد القناة إذا وجدها في `data/channels.json` أو `data/channel_cache.json`؛ بل يطابق اسم القناة بعد إزالة المسافات والاختلافات البسيطة.
 
+في أول تشغيل، ينشئ السكربت مجلد `data` تلقائيا، ثم ينزّل — فقط إذا لم تكن موجودة — ملفات `channels.json` و`satellites.json` و`teams.json` و`competitions.json`. بعد ذلك ينشئ أو يحدّث `matches.json` و`channel_cache.json` و`last_run.json`. لا يستبدل أي ملف كتالوج موجود مسبقا.
+
 ## إعداد GitHub
 
 أنشئ مستودعا، ارفع الملفات، ثم فعّل Actions. يفضّل إضافة الأسرار التالية من Settings → Secrets and variables → Actions:

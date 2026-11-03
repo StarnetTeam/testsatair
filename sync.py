@@ -35,6 +35,8 @@ LST_PROXY = os.getenv("LST_PROXY_URL", "https://lst-proxy.naderelalmy.workers.de
 API_KEY = os.getenv("API_FOOTBALL_KEY", "").strip()
 REQUEST_DELAY = float(os.getenv("REQUEST_DELAY_SECONDS", "0.8"))
 FIREBASE_PROJECT = os.getenv("FIREBASE_PROJECT_ID", "satair-6983b")
+PUBLIC_DATA_BASE = os.getenv("PUBLIC_DATA_BASE", "https://satair-6983b.web.app/data").rstrip("/")
+CATALOG_FILES = ("channels.json", "satellites.json", "teams.json", "competitions.json")
 
 
 def now_cairo() -> datetime:
@@ -53,10 +55,37 @@ def read_json(name: str, default: Any) -> Any:
 
 
 def write_json(name: str, value: Any) -> None:
+    # GitHub Actions أو نسخة المستودع الجديدة قد لا تحتوي مجلد data بعد.
+    # أنشئه قبل إنشاء الملف المؤقت حتى لا يفشل التشغيل بـ FileNotFoundError.
+    DATA.mkdir(parents=True, exist_ok=True)
     p = DATA / name
     tmp = p.with_suffix(p.suffix + ".tmp")
     tmp.write_text(json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     tmp.replace(p)
+
+
+def ensure_catalog_files() -> None:
+    """إنشاء كتالوج البيانات الثابتة تلقائيا في أول تشغيل فقط.
+
+    لا نعيد تنزيل ملف موجود حتى لا نمسح تعديلات المستخدم المحلية.
+    عند فشل الشبكة يستمر السكربت، وستظل بيانات المباراة والكاش قابلة للحفظ.
+    """
+    DATA.mkdir(parents=True, exist_ok=True)
+    for name in CATALOG_FILES:
+        target = DATA / name
+        if target.exists() and target.stat().st_size > 2:
+            continue
+        url = f"{PUBLIC_DATA_BASE}/{name}"
+        try:
+            response = SESSION.get(url, timeout=45)
+            response.raise_for_status()
+            payload = response.json()
+            if not isinstance(payload, (list, dict)):
+                raise ValueError("صيغة الكتالوج غير صحيحة")
+            target.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+            logging.info("تم إنشاء data/%s تلقائيا", name)
+        except Exception as exc:
+            logging.warning("تعذر إنشاء data/%s تلقائيا: %s", name, exc)
 
 
 def clean(s: Any) -> str:
@@ -297,6 +326,7 @@ def should_refresh_details(m: dict[str, Any], now: datetime) -> bool:
 
 
 def sync(days: int = 1) -> tuple[int, int]:
+    ensure_catalog_files()
     now = now_cairo()
     matches = read_json("matches.json", [])
     if not isinstance(matches, list): matches = []
