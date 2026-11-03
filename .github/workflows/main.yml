@@ -1,0 +1,49 @@
+name: تحديث المباريات والقنوات
+
+on:
+  workflow_dispatch:
+  schedule:
+    # كل 10 دقائق؛ السكربت يستخدم توقيت Africa/Cairo داخليا.
+    - cron: '*/10 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: satair-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Sync matches, live status and channel cache
+        env:
+          YS_PROXY_URL: ${{ secrets.YS_PROXY_URL }}
+          LST_PROXY_URL: ${{ secrets.LST_PROXY_URL }}
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: python sync.py --days 2
+
+      - name: Commit JSON data only when changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/matches.json data/channel_cache.json data/last_run.json
+          git diff --cached --quiet && exit 0
+          git commit -m "chore(data): تحديث المباريات والقنوات"
+          git push
