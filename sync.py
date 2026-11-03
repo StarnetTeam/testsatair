@@ -37,6 +37,15 @@ REQUEST_DELAY = float(os.getenv("REQUEST_DELAY_SECONDS", "0.8"))
 FIREBASE_PROJECT = os.getenv("FIREBASE_PROJECT_ID", "satair-6983b")
 PUBLIC_DATA_BASE = os.getenv("PUBLIC_DATA_BASE", "https://satair-6983b.web.app/data").rstrip("/")
 CATALOG_FILES = ("channels.json", "satellites.json", "teams.json", "competitions.json")
+PUBLIC_MATCH_FIELDS = (
+    "id", "date", "team1", "team2", "logo1", "logo2", "time",
+    "competition", "competitionLogo", "round", "stadium", "status",
+    "score", "commentator", "channels", "channel_details",
+)
+PUBLIC_CHANNEL_FIELDS = (
+    "id", "name", "displayName", "satellite", "satelliteEn",
+    "frequency", "free", "logo", "commentator",
+)
 
 
 def now_cairo() -> datetime:
@@ -277,6 +286,26 @@ def channel_catalog_by_id() -> dict[str, dict[str, Any]]:
     return {str(x.get("id")): x for x in items if isinstance(x, dict) and x.get("id")}
 
 
+def has_frequency_and_satellite(channel: dict[str, Any]) -> bool:
+    """القناة صالحة للظهور فقط عند وجود تردد وقمر واضحين."""
+    frequency = clean(channel.get("frequency"))
+    satellite = clean(channel.get("satellite") or channel.get("satelliteEn"))
+    return bool(frequency and satellite)
+
+
+def public_match(match: dict[str, Any]) -> dict[str, Any]:
+    """نسخة العرض فقط؛ لا تغيّر match الداخلي أو channel_cache."""
+    result = {k: match[k] for k in PUBLIC_MATCH_FIELDS if k in match}
+    public_channels = []
+    for channel in match.get("channel_details") or []:
+        if not isinstance(channel, dict) or not has_frequency_and_satellite(channel):
+            continue
+        public_channels.append({k: channel[k] for k in PUBLIC_CHANNEL_FIELDS if k in channel})
+    result["channel_details"] = public_channels
+    result["channels"] = [x.get("name") for x in public_channels if x.get("name")]
+    return result
+
+
 def enrich_channels(details: list[dict[str, str]], catalog: dict[str, dict[str, Any]], cache: dict[str, Any]) -> list[dict[str, Any]]:
     result = []
     for d in details:
@@ -328,7 +357,8 @@ def should_refresh_details(m: dict[str, Any], now: datetime) -> bool:
 def sync(days: int = 1) -> tuple[int, int]:
     ensure_catalog_files()
     now = now_cairo()
-    matches = read_json("matches.json", [])
+    # حالة داخلية كاملة للتشغيل المتكرر؛ matches.json يبقى نسخة عرض مختصرة.
+    matches = read_json("matches_state.json", read_json("matches.json", []))
     if not isinstance(matches, list): matches = []
     by_id = {str(x.get("id")): x for x in matches if isinstance(x, dict)}
     cache = read_json("channel_cache.json", {})
@@ -379,7 +409,9 @@ def sync(days: int = 1) -> tuple[int, int]:
 
     optional_api_live(list(by_id.values()))
     ordered = sorted(by_id.values(), key=lambda x: (x.get("date", ""), x.get("time", ""), x.get("team1", "")))
-    write_json("matches.json", ordered)
+    write_json("matches_state.json", ordered)
+    # matches.json ملف عرض مختصر. الكاش يظل كاملا في channel_cache.json.
+    write_json("matches.json", [public_match(m) for m in ordered])
     write_json("channel_cache.json", cache)
     write_json("last_run.json", {"utc": datetime.now(timezone.utc).isoformat(), "cairo": now.isoformat(),
                                   "matches": len(ordered), "added": added, "updated": updated})
