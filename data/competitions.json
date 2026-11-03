@@ -1,0 +1,672 @@
+[
+  {
+    "id": "0gzkTBS2ScM34A3OrhiI",
+    "name": "دوري المحترفين العماني",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/y7rwfl0jmpfe7kjmidjf.png"
+  },
+  {
+    "id": "18YaBQNcrHI0IV7xNenP",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/kxq6veg4boxme0twxwyv.png",
+    "name": "الدوري الإسباني"
+  },
+  {
+    "id": "19j6OGYoyr24VvjW40mV",
+    "name": "دوري أبطال آسيا للنخبة",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/competitions_19j6OGYoyr24VvjW40mV_logo.png"
+  },
+  {
+    "id": "3xvb4kKm9wJBIN1vDaKx",
+    "name": "الدوري الهولندي الممتاز",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/o6dps20nupvqr9vl1eup.png"
+  },
+  {
+    "id": "4ZHvz711clvurg4JZSqi",
+    "name": "الدوري السعودي للمحترفين",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/fz0x6xxdvux0c6wnfpnh.png"
+  },
+  {
+    "id": "4jHARVbr78VbZI5kUXv5",
+    "name": "دوري أبطال أفريقيا",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/competitions_4jHARVbr78VbZI5kUXv5_logo.png"
+  },
+  {
+    "id": "4mXptXr5tmyqaiq4x5ZQ",
+    "name": "الدوري الأوروبي",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/competitions_4mXptXr5tmyqaiq4x5ZQ_logo.png"
+  },
+  {
+    "id": "4t3bpqYgtPLeopmGQ5Ao",
+    "name": "الدوري الإنجليزي الدرجة الثانية",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/dhj0wxirkwl068rpxgct.png"
+  },
+  {
+    "id": "5nBdQlqxq4tK3bZyKV16",
+    "name": "الدوري الأمريكي لكرة القدم",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/i8kujhjcctu2fqjuro7r.png"
+  },
+  {
+    "id": "71lvbxtphSwjklcSsoLc",
+    "name": "الدوري البلجيكي",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/lnw5zdaqut2gwdjkspti.png"
+  },
+  {
+    "id": "8dZRTrEwVaRAYawqvW5y",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/a9mjknk7t3aavlsffyen.png",
+    "name": "دوري التحدي الآسيوي"
+  },
+  {
+    "id": "94XcniQTeyMD2PvBhGOu",
+    "name": "الدوري الإسكتلندي الممتاز",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/auvyg6boirvkh2soryc5.png"
+  },
+  {
+    "id": "AGqgdHVIxzWYyDBePVSp",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/ujgsofuprusv88emqlav.png",
+    "name": "كأس تونس"
+  },
+  {
+    "id": "BRcGFpEBPXRrnXtpgvqn",
+    "name": "دوري الدرجة الأولى الأرجنتيني",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/ayky6hbltgheykop0ra6.png"
+  },
+  {
+    "id": "C7D7tlvAbXVVnKUzw9D8",
+    "name": "الدوري المصري",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/fms0rdawpmc6ffecb4k3.png"
+  },
+  {
+    "id": "CXZTHxppSfRIW49IpMFC",
+    "name": "الدوري اللبناني",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/djyavfwezy2z46zu0lcf.png"
+  },
+  {
+    "id": "FXMkVrfBeBRfC5a2aNyb",
+    "name": "الرابطة التونسية لكرة القدم",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/uq8vonyrifensfrw1srd.png"
+  },
+  {
+    "id": "FtRgQhjWJjnCmHGw34jz",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/dhrgzi8tytrvmd8cxxdo.png",
+    "name": "الدوري الإيطالي"
+  },
+  {
+    "id": "GfCLOYi21ClwFfOmmOnA",
+    "name": "الدوري المغربي",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/ir7fq8084jw7ij13u6ub.png"
+  },
+  {
+    "id": "HjoZ4rP6hPzabe6faA1p",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/tpueelwu7jy9tm4y6k25.png",
+    "name": "كأس خادم الحرمين الشريفين"
+  },
+  {
+    "id": "Hq8UclO91wWbYdD093xc",
+    "name": "الرابطة المحترفة الجزائرية الأولى",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/tmg62upkin0ym3vthnja.png"
+  },
+  {
+    "id": "IF3lRkBW8ttSm5EFZQWn",
+    "name": "الدوري البرازيلي",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/hha8wlwfmmb9gnb94x1g.png"
+  },
+  {
+    "id": "Ie9IurMH5CfLZpNoLu8b",
+    "name": "كأس مصر",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/ybnjjbzhnapruubhkqtw.png"
+  },
+  {
+    "id": "IilqK2KRWg2iGmLYQxb1",
+    "name": "دوري أبطال آسيا 2",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/co4zzdgpmcyi63qio0nd.png"
+  },
+  {
+    "id": "L7c3D3t2KDJgfwSVNoOC",
+    "name": "كأس الأرجنتين",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/ns9v9u0xlhl4g45rkj4g.png"
+  },
+  {
+    "id": "MAjLuqsN7Gq3R5Gr4Zcz",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/b4fi0wvdyhlju0sxqarw.png",
+    "name": "الدوري البحريني الممتاز"
+  },
+  {
+    "id": "OrrSXCCXKEuMKynFmxRf",
+    "name": "كأس إسكتلندا",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/nyhtfbfgouet3ohlonml.png"
+  },
+  {
+    "id": "PcnVo27TvaKw1oC3AW4K",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/qiuqxhcoch7vdksflejm.png",
+    "name": "الدوري الأردني للمحترفين"
+  },
+  {
+    "id": "SexZ21ScZqJ120704VCS",
+    "name": "دوري أبطال أوروبا للشباب",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/ddsbedrhtljovpkogblm.png"
+  },
+  {
+    "id": "Ssy0Co382iTBzZdTjawF",
+    "name": "الدوري الإماراتي للمحترفين",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/competitions_Ssy0Co382iTBzZdTjawF_logo.png"
+  },
+  {
+    "id": "YaS624LEFGjTodFhB7AP",
+    "name": "الدوري الموريتاني الممتاز",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/lic4zjimvjbbtwkic7lk.png"
+  },
+  {
+    "id": "ZvxreFofp4Q6eY0bnqVT",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/zt6pqwkaau58xrlivib1.png",
+    "name": "الدوري التركي الممتاز"
+  },
+  {
+    "id": "bla9dz7JeXj2B4kkBGX7",
+    "name": "الدوري الكويتي",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/hu97gbiwim4ntyb6x31d.png"
+  },
+  {
+    "id": "epNMkVo5NXmpxSlFFl83",
+    "name": "كأس إيطاليا",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/competitions_epNMkVo5NXmpxSlFFl83_logo.png"
+  },
+  {
+    "id": "fZtVTIBtXZkGgf8HZozU",
+    "name": "دوري المؤتمر الأوروبي",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/competitions_fZtVTIBtXZkGgf8HZozU_logo.png"
+  },
+  {
+    "id": "kZvAHIB2oH6m7W23fkox",
+    "name": "الدوري السويسري",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/b0wv4831kedwly0se2rh.png"
+  },
+  {
+    "id": "lC1cHT0q8xV8nQvNwS5R",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/weuhw1tgk9ig49giomqd.png",
+    "name": "كأس فرنسا"
+  },
+  {
+    "id": "lhSSMlvAyxJTnpsZPP2f",
+    "name": "الدوري الألماني",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/m8yxayehollxcjd1cw9u.png"
+  },
+  {
+    "id": "lj7cNaOarpQjvOpMCKQm",
+    "name": "كأس ملك البحرين",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/jty4snmtswa5je5n7nqk.png"
+  },
+  {
+    "id": "niRhvKYAYTYAxvaTmCUb",
+    "name": "كأس الكونفدرالية",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/w1u0fbg0yc7p57zm8bny.png"
+  },
+  {
+    "id": "o5TLfgoiCgb8OEesRteX",
+    "name": "كأس البرازيل",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/zdaucjl5onhcxtvuckdj.png"
+  },
+  {
+    "id": "p38Y03oyPh8PWnlwzpW8",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/rte44ycocxqheojl9zjr.png",
+    "name": "الدوري البرتغالي الممتاز"
+  },
+  {
+    "id": "ptPpGNkqzPDFsgxsFbxn",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/ijj1ju5pedc2s4d6a3bv.png",
+    "name": "الدوري الليبي"
+  },
+  {
+    "id": "ptz5qD33Ng5azzZwwqt4",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/as4c6h8q1xyrzoxaiigi.png",
+    "name": "دوري البطولة الإنجليزية"
+  },
+  {
+    "id": "qI8VJtiguBBx4YIGjjTd",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/competitions_qI8VJtiguBBx4YIGjjTd_logo.png",
+    "name": "كأس ألمانيا"
+  },
+  {
+    "id": "sTe7HSGZTtDt5GUDs6YG",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/competitions_sTe7HSGZTtDt5GUDs6YG_logo.png",
+    "name": "دوري أبطال أوروبا"
+  },
+  {
+    "id": "t5cFleSnUtBjRg499HEE",
+    "name": "كأس قطر",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/yvity1fk579tnanlnat1.png"
+  },
+  {
+    "id": "tEhC5QP2toFUs2jyQf0G",
+    "name": "كأس الكونكاكاف أمريكا الوسطى",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1789218806109_l41nma.png"
+  },
+  {
+    "id": "u4IgfF99PpwPNxyDH1Nl",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/f39unfpft0hqyct29ttc.png",
+    "name": "الدوري الفرنسي"
+  },
+  {
+    "id": "vOyGtLwl1YSifVHGGLeV",
+    "name": "الدوري السوري الممتاز",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/na976x4lpccr311lhwpu.png"
+  },
+  {
+    "id": "vX1fBxf35E1b63RtE4SV",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/jhwzn19nmjzlme6a4p0e.png",
+    "name": "كوبا ليبرتادوريس"
+  },
+  {
+    "id": "wEavwlBwzMkJ2D7Bed8s",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/zso3lwklcr5ezyqdnzq1.png",
+    "name": "الدوري العراقي"
+  },
+  {
+    "id": "wVY8lauynim4zRBuwgEO",
+    "name": "كأس الرابطة المصرية",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/zmmts4blb4jzzj67fu3k.png"
+  },
+  {
+    "id": "xGwmWndLkYFuDksB1lDb",
+    "name": "الدوري القطري",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/f2xqrlryiklzjvvlfkdm.png"
+  },
+  {
+    "id": "zSF3SiNBOXFhIGjaJtYH",
+    "name": "الدوري الإنجليزي الممتاز",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/rxiwtqbqpfkkbq40zjsj.png"
+  },
+  {
+    "id": "zbEitpGlvSE5EevmWGmS",
+    "name": "كأس الاتحاد الإنجليزي",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/competitions_zbEitpGlvSE5EevmWGmS_logo.png"
+  },
+  {
+    "id": "0hhZShNOFcffZVtwTHFb",
+    "name": "تصفيات كأس العالم أوروبا",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/jbpua8mchhzqjrd3eaul.png"
+  },
+  {
+    "id": "2BlbS1rqps13mFFLJ0Om",
+    "name": "دوري الأمم الأوروبية",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/rsmx7ooea00zafe90hec.png"
+  },
+  {
+    "id": "6ZnCDEOcZjk5awJZO4m4",
+    "name": "الملحق العالمي لكأس العالم",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/j8okvjf3vmyesv9vng1s.png"
+  },
+  {
+    "id": "KxB4NJyhiLdraUXAwhi4",
+    "name": "تصفيات كأس آسيا",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/anvnqvrsut2yb0jplml4.png"
+  },
+  {
+    "id": "IH9njL7huJr8wtL5edPT",
+    "name": "وديات منتخبات",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/rjugdvjoorajn4xok2re.png"
+  },
+  {
+    "id": "MPZYcTXKNmI8iA8VGCYy",
+    "name": "درع الاتحاد الإنجليزي",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775222641295_qjzs3h.png"
+  },
+  {
+    "id": "9o78LOSj5NfhxNobgp6q",
+    "name": "كأس ملك إسبانيا",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775222737664_hfnxcd.png"
+  },
+  {
+    "id": "q4veY6RfBt89ubkWcQE8",
+    "name": "كأس السوبر الإسباني",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775222790048_g6vt0i.png"
+  },
+  {
+    "id": "Twi6m9OH4X34a7DHbldz",
+    "name": "كأس السوبر الإيطالي",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775222834704_wss7js.png"
+  },
+  {
+    "id": "FMxB2NXd72QV6YCE90yK",
+    "name": "كأس السوبر الألماني",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775222852288_omixna.png"
+  },
+  {
+    "id": "fBxtc62cCGpflolBNEll",
+    "name": "الدوري الإسباني الدرجة الثانية",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775222886117_6tu02h.png"
+  },
+  {
+    "id": "k1h806Jdyrn3HB5ENCiA",
+    "name": "كأس السوبر الفرنسي",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775222930668_uvtepz.png"
+  },
+  {
+    "id": "6GtA0SHQoFjF2SzjrokG",
+    "name": "كأس أمم أفريقيا",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775222975489_jqaafj.png"
+  },
+  {
+    "id": "VWmjuYnd49epUq8gGQN7",
+    "name": "كأس السوبر الأفريقي",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775223024982_6w4tue.png"
+  },
+  {
+    "id": "g0CM8LaTvug1NcaBfbiQ",
+    "name": "كأس السوبر الأوروبي",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775223064359_qhy7aj.png"
+  },
+  {
+    "id": "5TNw8jM2NH8n3WWcz7Gt",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775403755132_vd4lt8.png",
+    "name": "الدوري الألماني الدرجة الثانية"
+  },
+  {
+    "id": "8yMF0A65AsBHFEcWNs4Y",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775403900521_sw787y.png",
+    "name": "الدوري البولندي الممتاز"
+  },
+  {
+    "id": "9c6QfQvLZpNUCVCytknH",
+    "name": "الدوري الإيطالي الدرجة الثانية",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775404958549_y6o09m.png"
+  },
+  {
+    "id": "BK2f8J3oZfc2HxNnhpbI",
+    "name": "الدوري الفرنسي الدرجة الثانية",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775487340925_jnnja9.png"
+  },
+  {
+    "id": "2L5McWdsNkYC1Tqgm8QQ",
+    "name": "الدوري النمساوي",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775548587752_gg3hjs.png"
+  },
+  {
+    "id": "cpH3SwzNk9A5fuVh6Yrd",
+    "name": "كأس البرتغال",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775556610067_p1r8cs.png"
+  },
+  {
+    "id": "VbEgcnecH0ScPqcxo1I8",
+    "name": "الدوري اليوناني",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775722309644_54243u.png"
+  },
+  {
+    "id": "3rf9QTtt3NyZtZKGQEC8",
+    "name": "الدوري النرويجي",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775723270740_0htinn.png"
+  },
+  {
+    "id": "MjG7YrM9ZZlZAkTQnHOS",
+    "name": "الدوري الدنماركي",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775723295593_9pb9sv.png"
+  },
+  {
+    "id": "qlWoJlOS90s2DtrKHu4A",
+    "name": "الدوري الصربي الممتاز",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775723317557_o0p3ny.png"
+  },
+  {
+    "id": "HG2LAEorBvSQHu8P73AZ",
+    "name": "الدوري السويدي الممتاز",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775723382634_3hkb29.png"
+  },
+  {
+    "id": "SjHLH2jN6TRVZe7rYzno",
+    "name": "الدوري الروسي",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775723411305_iraj08.png"
+  },
+  {
+    "id": "UhiVxFJhOJcRHv7UbZjs",
+    "name": "الدوري الروماني",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775723493430_dw9qnp.png"
+  },
+  {
+    "id": "pnTjzPCLshTaEMNqzEgG",
+    "name": "دوري البوسنة والهرسك الممتاز",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775724495883_rtss68.png"
+  },
+  {
+    "id": "kXsAc1iLQgbnrwDq7aj2",
+    "name": "الدوري الكرواتي الممتاز",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775724519155_ihijs5.png"
+  },
+  {
+    "id": "mfaZ6sZO7D9asRE8UXXd",
+    "name": "الدوري السلوفيني",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775725093708_kx0xkv.png"
+  },
+  {
+    "id": "86d6SEoYuBUgl5fOkr7B",
+    "name": "الدوري المجري الممتاز",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775728452345_b2foj0.png"
+  },
+  {
+    "id": "wWYpbmlK6FbuOZyRB3c3",
+    "name": "دوري أذربيجان الممتاز",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1775734311057_7x77q9.png"
+  },
+  {
+    "id": "aPOUNTpEnWyatuV0aOKX",
+    "name": "كأس هولندا",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1776091553705_9hytm8.png"
+  },
+  {
+    "id": "29kxR7UVEcwtYD1IS0N9",
+    "name": "كأس تركيا",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1776252776860_qb5xr4.png"
+  },
+  {
+    "id": "mPeZStzbgi9EnPXmv7qO",
+    "name": "كأس الأردن",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1776252740015_6rsnxy.png"
+  },
+  {
+    "id": "EsZYe5jd56BUYCmcTvIP",
+    "name": "دوري أبطال الخليج",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1776425297667_ll90r9.png"
+  },
+  {
+    "id": "jKyTTlzG2p2EhmmBYJ3M",
+    "name": "الدوري الإسباني لكرة السلة",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1776514776494_btb7x8.png"
+  },
+  {
+    "id": "XEbsbcYOGl5kQRtzIbNx",
+    "name": "الدوري الإسباني لكرة اليد",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1776514853919_31sb02.png"
+  },
+  {
+    "id": "tDMtlmVhKYTCukAfn9Si",
+    "name": "دوري أبطال أوروبا للكرة الطائرة",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1776514902702_qfhhyk.png"
+  },
+  {
+    "id": "OmHrT4syFixKG1rho6qt",
+    "name": "دوري أبطال اوروبا لكرة اليد",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1776515005284_vhw95t.png"
+  },
+  {
+    "id": "t7ufAJiJeuy939TKdmQd",
+    "name": "كأس الجزائر",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1776690113681_tptgip.png"
+  },
+  {
+    "id": "YxdjKTS8HeUQcgSiOzlq",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1778734511370_i4huux.png",
+    "name": "كأس ولي العهد الكويتي"
+  },
+  {
+    "id": "13jkqXrvjcNFHrBcZqHt",
+    "name": "كأس ليبيا",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1779939630701_xe7n91.png"
+  },
+  {
+    "id": "cJqDfKrBTbIyMZsO8bLw",
+    "name": "الدوري الفرنسي تفادي الهبوط",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1779939663504_gmrysv.png"
+  },
+  {
+    "id": "AxDYJVXDke1UuSVCqgpR",
+    "name": "كأس أمم أفريقيا للناشئين تحت 17 سنة",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1780013530427_425y17.png"
+  },
+  {
+    "id": "XT84zwgDJp92896QPbQi",
+    "name": "دورة تولون الدولية",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1780483116020_ou3uup.png"
+  },
+  {
+    "id": "hig90mQnOIQVy2r8k3sd",
+    "name": "الدوري اليمني",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1780686306140_q1m69o.png"
+  },
+  {
+    "id": "zlK2d04nySsXGa6Xjh2T",
+    "name": "مباراة ودية",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1784655620111_up0r1l.png"
+  },
+  {
+    "id": "KoHyE0iarojzvUumf1BC",
+    "name": "كأس السوبر البلجيكي",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1785114916793_hm3b6g.png"
+  },
+  {
+    "id": "ik4U2uiYAGUwPioL4Ir5",
+    "name": "كأس السوبر الهولندي درع يوهان كرويف",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1785114938261_eaa8je.png"
+  },
+  {
+    "id": "qAM3IEvKFoCgFCBoQ8KL",
+    "name": "كأس السوبر البرتغالي",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1785114969593_4rqto0.png"
+  },
+  {
+    "id": "9fxoRRmsoxE7r6om1oAu",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1786106460507_i9yb9r.png",
+    "name": "كأس الدوريات"
+  },
+  {
+    "id": "nukcuXXYiN6HHMyf2poc",
+    "name": "الدوري المكسيكي",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1786186532390_kq8ya4.png"
+  },
+  {
+    "id": "FGnASPEfaqA1IfVtjaGo",
+    "name": "كأس أمم أفريقيا للسيدات",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1786186841819_v7xja8.png"
+  },
+  {
+    "id": "tjQQxIqhbcXQBk4IGVfu",
+    "name": "دوري أبطال أوقيانوسيا",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1786186864791_lp1ixa.png"
+  },
+  {
+    "id": "UsxoivQn9EVpHbN2yR53",
+    "name": "كأس السوبر الأردني",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1786551047774_e88j1c.png"
+  },
+  {
+    "id": "zwcKc6hRiuJ1LsgpEqn3",
+    "name": "كأس الرابطة الإنجليزية",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1787324263426_o49aar.png"
+  },
+  {
+    "id": "3n3ugQKGNvNOXlsVRJwe",
+    "name": "كأس القارات للأندية",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1787343437637_z6izll.png"
+  },
+  {
+    "id": "oGXdSzSZyvMCCmZf5F7R",
+    "name": "كأس الدوري الإسكتلندي",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1788958106222_xv1adb.png"
+  },
+  {
+    "id": "8pMl2Nd2o0Net3ivElRI",
+    "name": "كوبا سودا أمريكانا",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1789151821893_fbg14i.png"
+  },
+  {
+    "id": "BMndu70NP1gXyq1xUEcS",
+    "name": "الدوري المصري - القسم الثاني",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1789180087706_xto1ip.png"
+  },
+  {
+    "id": "j4Z6jzNhNQxHVCDjwjN9",
+    "name": "دوري أبطال أفريقيا | الأدوار الإقصائية",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1789150957101_u87uxp.png"
+  },
+  {
+    "id": "qkRsNzcaCTo5egCHmFpd",
+    "name": "كأس الكونفيدرالية | الأدوار الإقصائية",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1789153798883_79f02i.png"
+  },
+  {
+    "id": "fL8ZhriT8ZfsTdbEmOKx",
+    "name": "آسيا",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1789332066086_je5x8i.png"
+  },
+  {
+    "id": "GnHtAtB8J5hM0blf1sNu",
+    "name": "إفريقيا",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1789332161842_7c67pu.png"
+  },
+  {
+    "id": "EA5lGpvLJpTf1vCXorQ2",
+    "name": "أوروبا",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1789332192633_6gouw3.png"
+  },
+  {
+    "id": "maNVZ2vBS2hfaQdQGgVJ",
+    "name": "أمريكا الشمالية",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1789332252653_ub20mv.png"
+  },
+  {
+    "id": "2Bv54r9spY1SdFipXSN2",
+    "name": "أمريكا الجنوبية",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1789332300550_a60a2x.png"
+  },
+  {
+    "id": "OMAs2tyEJX3uk0tSvLIc",
+    "name": "أستراليا",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1789332556329_d0ps7w.png"
+  },
+  {
+    "id": "48yOufdHu5Z8QDPCqx8E",
+    "name": "كأس الأبطال",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1789562821405_gts722.png"
+  },
+  {
+    "id": "5X8gSSZ8rplzXsTepsWG",
+    "name": "تصفيات كأس أمم أفريقيا",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1789684860882_73pyrx.png"
+  },
+  {
+    "id": "GHCleNzCMArbVlOk7G35",
+    "name": "كأس مصرف أبوظبي الإسلامي",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1789741459109_2kkwa9.png"
+  },
+  {
+    "id": "aIg2CTt1mjqTqmpJn4ws",
+    "name": "كأس الجمهورية اليمنية",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1789772088334_lucyim.png"
+  },
+  {
+    "id": "7K21GPkarMBy4QAoWROV",
+    "name": "كأس نجوم قطر",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1789865476051_pzflzk.png"
+  },
+  {
+    "id": "4VVVti8gRMrkKc7yApse",
+    "name": "كأس الخليج العربي",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1790783303281_sec4gm.png"
+  },
+  {
+    "id": "QwGvx0nP6R5BWpwH3bgA",
+    "name": "كأس رئيس الدولة",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1792195996122_cpcley.png"
+  },
+  {
+    "id": "OXarXrP4r79Wn2KEoNVT",
+    "name": "كأس الرابطة البرتغالية",
+    "logo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1793171585345_lrv29v.png"
+  }
+]

@@ -1,0 +1,263 @@
+[
+  {
+    "id": "Xc9XgnCvZnI3CxB50TIz",
+    "en": "Hispasat 30.0W",
+    "ar": "هيسباسات",
+    "logo": "",
+    "bestFreq": "12437 H 27500",
+    "worstFreq": "10770 H 30000",
+    "receptionUrl": "https://www.youtube.com/watch?v=rX4VU2_6j4Q"
+  },
+  {
+    "id": "JA5Qt5QderDWyxjccawH",
+    "en": "Nilesat 7.0W",
+    "ar": "نايل سات",
+    "logo": "",
+    "bestFreq": "12054 V 27500",
+    "worstFreq": "11373 H 27500",
+    "receptionUrl": "https://www.youtube.com/watch?v=UWdMcdLsIHc"
+  },
+  {
+    "id": "7lEClBXuNKmsO0EmAnrQ",
+    "en": "Amos 4.0W",
+    "ar": "اموس",
+    "logo": "",
+    "bestFreq": "11140 V 27500",
+    "worstFreq": "11258 V 30000",
+    "receptionUrl": "https://www.youtube.com/watch?v=TP44lzWOLpE"
+  },
+  {
+    "id": "irVv0KKy4gW80zbvvkyH",
+    "en": "Astra 4.8W",
+    "ar": "قبرص",
+    "logo": "",
+    "bestFreq": "",
+    "worstFreq": "",
+    "receptionUrl": "https://www.youtube.com/watch?v=WgPOmTnVFYg"
+  },
+  {
+    "id": "YwNQHkgANSaIY7lus5kQ",
+    "en": "Thor 0.8W",
+    "ar": "ثور",
+    "logo": "",
+    "bestFreq": "12418 V 28000",
+    "worstFreq": "12149 V 30000",
+    "receptionUrl": "https://www.youtube.com/watch?v=J9bwVRltU4Q"
+  },
+  {
+    "id": "vwHlvath3Q6tYSMSpd94",
+    "en": "Bulgariasat 1.9E",
+    "ar": "البلغاري",
+    "logo": "",
+    "bestFreq": "12456 H 30000",
+    "worstFreq": "12322 H 30000",
+    "receptionUrl": "https://www.youtube.com/watch?v=G0Q9eL79Ke4"
+  },
+  {
+    "id": "pY1hX4mRvj1xACPCws7i",
+    "en": "Rascom 2.9E",
+    "ar": "راسكوم",
+    "logo": "",
+    "bestFreq": "",
+    "worstFreq": "",
+    "receptionUrl": "https://www.youtube.com/watch?v=5OJgn1BK6UY"
+  },
+  {
+    "id": "CqjISEfuRUXn5xg4xukA",
+    "en": "Eutel 9.0E",
+    "ar": "يوتل 9",
+    "logo": "",
+    "bestFreq": "11996 V 27500",
+    "worstFreq": "12149 V 31400",
+    "receptionUrl": "https://www.youtube.com/watch?v=cuCEkNChaMs"
+  },
+  {
+    "id": "wigq7cSRPjMrnwpvte2n",
+    "en": "Hotbird 13.0E",
+    "ar": "هوت بيرد",
+    "logo": "",
+    "bestFreq": "11137 H 27500",
+    "worstFreq": "11278 V 27500",
+    "receptionUrl": "https://www.youtube.com/watch?v=aTqxQKGOznc"
+  },
+  {
+    "id": "fswvtl1X8lxp0yQSDL1g",
+    "en": "Eutel 16.0E",
+    "ar": "يوتل 16",
+    "logo": "",
+    "bestFreq": "11637 V 30000",
+    "worstFreq": "12699 H 09880",
+    "receptionUrl": "https://www.youtube.com/watch?v=yp-BWtDOzA0"
+  },
+  {
+    "id": "PBmxM9eVKce75aZ26tWB",
+    "en": "Astra 19.2E",
+    "ar": "استرا 19",
+    "logo": "",
+    "bestFreq": "11973 V 27500",
+    "worstFreq": "12166 29700",
+    "receptionUrl": "https://www.youtube.com/watch?v=Xahg55rYGK4"
+  },
+  {
+    "id": "gs9aCphDACuTYCj0nJjA",
+    "en": "Eutel 21.5E",
+    "ar": "يوتل 21",
+    "logo": "",
+    "bestFreq": "",
+    "worstFreq": "",
+    "receptionUrl": "https://www.youtube.com/watch?v=Nq70F46wBC0"
+  },
+  {
+    "id": "Q79g72P9Dm1sJpujWOmR",
+    "en": "Astra 23.5E",
+    "ar": "استرا 23",
+    "logo": "",
+    "bestFreq": "11914 H 30000",
+    "worstFreq": "12070 H 27500",
+    "receptionUrl": "https://www.youtube.com/watch?v=7XrhwL5I56E"
+  },
+  {
+    "id": "vBryswJEfDGJomgzLEOv",
+    "en": "Badr 26.0E",
+    "ar": "بدر 26",
+    "logo": "",
+    "bestFreq": "11230 H 27500",
+    "worstFreq": "11900 V 27500",
+    "receptionUrl": "https://www.youtube.com/watch?v=lZHbv1eSUN4"
+  },
+  {
+    "id": "eOzA1rGjMo0wdKI1Nxqn",
+    "en": "Astra 28.5E",
+    "ar": "استرا 28",
+    "logo": "",
+    "bestFreq": "",
+    "worstFreq": "",
+    "receptionUrl": "https://www.youtube.com/watch?v=b_chns8FLHI"
+  },
+  {
+    "id": "zK5MTjewhsJ6kM9gw210",
+    "en": "Arabsat 30.5E",
+    "ar": "عرب سات 30",
+    "logo": "",
+    "bestFreq": "10923 17000",
+    "worstFreq": "10824 H 04440",
+    "receptionUrl": "https://www.youtube.com/watch?v=cdfT3p9aInw"
+  },
+  {
+    "id": "63LItSTv3YMvp6dOYxBk",
+    "en": "HellaSat 39.0E",
+    "ar": "هيلاسات 39",
+    "logo": "",
+    "bestFreq": "12271 H 30000",
+    "worstFreq": "12405 V 30000",
+    "receptionUrl": "https://www.youtube.com/watch?v=DoYSWJCifMw"
+  },
+  {
+    "id": "AIwgiCdXnUbNk2Fr992R",
+    "en": "Express 40.0E",
+    "ar": "إكسبريس 40",
+    "logo": "",
+    "bestFreq": "11637 H 30000",
+    "worstFreq": "11637 H 30000",
+    "receptionUrl": "https://www.youtube.com/watch?v=3Yfb-KzautA"
+  },
+  {
+    "id": "bSGr7NQM7ZmZ7FBBTYSp",
+    "en": "Türksat 42.0E",
+    "ar": "التركي 42",
+    "logo": "",
+    "bestFreq": "12034 V 27500",
+    "worstFreq": "12346 H 09600",
+    "receptionUrl": "https://www.youtube.com/watch?v=dtBCBy4w5hI"
+  },
+  {
+    "id": "bkc6DppDwpp4oFW3WxVm",
+    "en": "AzerSpace 46.0E",
+    "ar": "الأذري 46",
+    "logo": "",
+    "bestFreq": "11025 V 12700",
+    "worstFreq": "11175 H 30000",
+    "receptionUrl": "https://www.youtube.com/watch?v=DsvOSY1AhqU"
+  },
+  {
+    "id": "DXapbEOIqOyOEcZwo138",
+    "en": "Türkmensat 52.0E",
+    "ar": "التركماني 52",
+    "logo": "",
+    "bestFreq": "12476 H 27500",
+    "worstFreq": "11221 V 27500",
+    "receptionUrl": "https://www.youtube.com/watch?v=fW3Ac82VjfE"
+  },
+  {
+    "id": "SjlsKuTgH38A2NOTKxLi",
+    "en": "Al Yah 52.5E",
+    "ar": "الياه سات 52",
+    "logo": "",
+    "bestFreq": "11996 V 27500",
+    "worstFreq": "12015 H 27500",
+    "receptionUrl": "https://www.youtube.com/watch?v=-lygPy3oNQg"
+  },
+  {
+    "id": "39s52Z69wIA2DAyhwAa4",
+    "en": "Intelsat 62.0E",
+    "ar": "الإيراني 62",
+    "logo": "",
+    "bestFreq": "11002 V 03500",
+    "worstFreq": "11555 V 30000",
+    "receptionUrl": "https://www.youtube.com/watch?v=DD4yG2YMHk4"
+  },
+  {
+    "id": "X5RmLNyWznYoLtoSaiJI",
+    "en": "Intelsat 68.5E",
+    "worstFreq": "12634 V 16166",
+    "bestFreq": "12657 V 04883",
+    "ar": "إنتل سات 68",
+    "logo": ""
+  },
+  {
+    "id": "P4DLi1AmurXvDu1Q3Sm0",
+    "en": "Eutel 70.5E",
+    "ar": "يوتل 70",
+    "logo": "",
+    "bestFreq": "",
+    "worstFreq": ""
+  },
+  {
+    "id": "sCABRJiW1djvDcv8lmm0",
+    "en": "Express 80.0E",
+    "ar": "إكسبريس 80"
+  },
+  {
+    "id": "YYxNKxMP9Vfm8hPvtPQ0",
+    "ar": "الهندي 108",
+    "en": "SES 7 108.2E"
+  },
+  {
+    "id": "K9tz0SjAxf4r5zNnYj0w",
+    "en": "SES-4 22.0W",
+    "ar": "إس إي إس"
+  },
+  {
+    "id": "fmXhPOYcmmGxcXIKXLIn",
+    "en": "Eutel 7.0E",
+    "logo": "",
+    "ar": "يوتل 7 (إفريقيا)"
+  },
+  {
+    "id": "zTKUNStjSIBLCHh2lnux",
+    "en": " Eutel 16.0E",
+    "ar": "يوتل 16 (إفريقيا)",
+    "logo": ""
+  },
+  {
+    "id": "G9Fwk9iqzRvCd94GwyLe",
+    "en": "Express 36.1E",
+    "ar": "إكسبرس 36 (إفريقيا)",
+    "logo": ""
+  },
+  {
+    "id": "1gpZVNFqIr4ewVAdL2J8",
+    "en": "DVB T2",
+    "ar": "بث أرضي"
+  }
+]
