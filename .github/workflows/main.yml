@@ -2,9 +2,9 @@ name: تحديث المباريات والقنوات
 
 on:
   workflow_dispatch:
-  schedule:
+  schedu.le:
     # كل 10 دقائق؛ السكربت يستخدم توقيت Africa/Cairo داخليا.
-    - c..ron: '*/10 * * * *'
+    - cron: '*/10 * * * *'
 
 permissions:
   contents: write
