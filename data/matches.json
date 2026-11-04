@@ -5194,7 +5194,7 @@
     "competition": "كأس الرابطة المصرية",
     "competitionLogo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/zmmts4blb4jzzj67fu3k.png",
     "round": "الجولة 2",
-    "stadium": "استاد القاهرة الدولي",
+    "stadium": "استاد الجيش ببرج العرب",
     "status": "NS",
     "score": {
       "home": null,
@@ -9697,6 +9697,27 @@
     ]
   },
   {
+    "id": "m_1793801783730_urh5rk",
+    "date": "2026-11-04",
+    "team1": "فتحي سبور",
+    "team2": "أيوب سبور",
+    "logo1": "⚽",
+    "logo2": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/teams/1789157901725_p76lhy.png",
+    "time": "12:00 م",
+    "competition": "كأس تركيا",
+    "competitionLogo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/1776252776860_qb5xr4.png",
+    "round": "الدور الثالث",
+    "stadium": "ملعب سيرانتيبي ديسكي",
+    "status": "NS",
+    "score": {
+      "home": null,
+      "away": null
+    },
+    "commentator": "",
+    "channels": [],
+    "channel_details": []
+  },
+  {
     "id": "m_1793364612282_h6irtj",
     "date": "2026-11-04",
     "team1": "شابيكوينسي",
@@ -10226,7 +10247,7 @@
     "competition": "الدوري العراقي",
     "competitionLogo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/zso3lwklcr5ezyqdnzq1.png",
     "round": "الجولة 13 - الذهاب",
-    "stadium": "",
+    "stadium": "استاد ديالى",
     "status": "NS",
     "score": {
       "home": null,
@@ -13034,7 +13055,7 @@
     "competition": "دوري الدرجة الأولى الأرجنتيني",
     "competitionLogo": "https://pub-01ffc6064b9b435aa726a53a561a6f53.r2.dev/satair/competitions/ayky6hbltgheykop0ra6.png",
     "round": "الجولة 16 - الإياب",
-    "stadium": "",
+    "stadium": "استاد خوسيه ماريا مينيلا",
     "status": "NS",
     "score": {
       "home": null,
